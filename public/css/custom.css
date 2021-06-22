@@ -1,0 +1,27 @@
+.main-image-h {
+    height: 90%;
+}
+
+.nav-h {
+    height: 10%;
+    background-color: #30336B;
+}
+
+.logo {
+    height: 6vh;
+    background-color: #30336B;
+}
+
+.pageHeader {
+    background-color: #30336B;
+}
+
+#mapid {
+    height: 94vh;
+    width: 100%;
+}
+
+.hoverable:hover {
+    background-color: #1B1464;
+    color: white;
+}
